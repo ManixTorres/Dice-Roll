@@ -1,0 +1,1 @@
+rolls six simple dice
